@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    background-color: blanchedalmond;
+}
+.head{
+    width: 90%;
+    margin-left: 5%;
+}
+.head .t1{
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: 2%;
+    font-size: 18px;
+}
+.head .t2{
+    display: block;
+    margin-top: 2%;
+}
+.head .bq{
+    font-size: 25px;
+    margin-top: 1%;
+}
+img{
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+.content{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.content a{
+    display: block;
+}
+.part{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
